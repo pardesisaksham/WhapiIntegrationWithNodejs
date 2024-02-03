@@ -36,7 +36,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Documentation
 
-[POSTMANLINK]( https://whapi.readme.io/reference/checkhealth)
+[OtherApiLinks]( https://whapi.readme.io/reference/checkhealth)
 
 - this link redirect to postman where you can see the how to set the values in the body for working with Api 
  
